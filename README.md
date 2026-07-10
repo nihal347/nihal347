@@ -49,6 +49,12 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" alt="c logo" />
   </a>
   <img width="12" />
+  
+  <!-- C# -->
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" alt="csharp logo" />
+  </a>
+  <img width="12" />
 
   <!-- Anaconda -->
   <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer">
@@ -71,12 +77,6 @@
   <!-- Canva -->
   <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="60" alt="canva logo" />
-  </a>
-  <img width="12" />
-
-  <!-- C# -->
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" alt="csharp logo" />
   </a>
   <img width="12" />
 
@@ -191,6 +191,12 @@
   <!-- NumPy -->
   <a href="https://numpy.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.simpleicons.org/numpy/013243" height="60" alt="numpy logo" />
+  </a>
+  <img width="12" />
+
+  <!-- Matplotlib -->
+  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="60" alt="matplotlib logo" />
   </a>
   <img width="12" />
 
