@@ -28,7 +28,7 @@
 
 - 🌱 I’m currently learning **machine learning**
 
-- 📟- 💻 Check out my portfolio at [nihal.dev](https://nihal347.github.io/portfolio)
+- 💻 Check out my portfolio at [nihal.dev](https://nihal347.github.io/portfolio)
 
 - 📝 I regularly write articles on [dev.to](https://dev.to)
 
